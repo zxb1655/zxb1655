@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.yezihaohao.vercel.app/api?username=zxb1655&show_icons=true&icon_color=805AD5&text_color=718096&hide_title=true&bg_color=FF000000" align="right" />
+<img src="https://github-readme-stats.yezihaohao.vercel.app/api?username=zxb1655&show_icons=true&icon_color=805AD5&text_color=718096&hide_title=false&bg_color=FF000000" align="right" />
 
 ### 你好，我是小猪猪 👋
 
